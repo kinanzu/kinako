@@ -84,3 +84,11 @@ body {
     text-align: left;
     margin-bottom: 60px;
 }
+.big-text {
+    font-size: 50px;       
+    font-weight: bold;     
+    color: #ff5722;        
+    text-align: center;    
+    margin: 20px 0;        
+}
+
